@@ -1,3 +1,4 @@
-# JaRoet PKM
+Personal page from JaRoet. I have been on Github for a long time but only at the end of 2025 started coding an app. 
+This is my landingspage. More to com. 
 
-JaRoet PKM is a fast, local-first Personal Knowledge Management tool designed for keyboard power users. It moves away from traditional folder structures, organizing your notes based on their relationships (Parents, Children, Siblings, and Related items). This creates a natural "topology" of thought that you can navigate fluidly. The functions are inspired by software like TheBrain, Workflowy, Logseq and Obsidian.
+My [JaRoet PKM](https://jaroet.github.io/JaRoet-PKM) tool. 
