@@ -1,3 +1,3 @@
 * Products
-  * JaRoet Outliner
+  * [JaRoet Outliner|JaRoetOutliner/index.md]
   * JaRoet PKM
