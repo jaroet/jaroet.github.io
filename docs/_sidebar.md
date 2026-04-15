@@ -1,2 +1,3 @@
-## [PKM Outliner](PKMOutliner/index.md)
-## [JaRoet PKM](JaRoetPKM/index.md)
+## [PKM Outliner](pkmoutliner/index.md)
+## [JaRoet PKM](jaroetpkm/index.md)
+
