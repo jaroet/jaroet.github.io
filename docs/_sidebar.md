@@ -1,5 +1,5 @@
-# Personal
+### About me ...
 
-# Software
+# Projects
 ### [PKM Outliner](pkmoutliner/index.md)
 
